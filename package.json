@@ -1,0 +1,21 @@
+{
+  "name": "com.picturethis3d.UITheme",
+  "version": "0.1.0",
+  "displayName": "Picturethis3d UITheme",
+  "description": "UIThemes for colors, sprites etc.",
+  "unity": "2020.2",
+  "unityRelease": "0b2",
+  "dependencies": {
+  },
+  "keywords": [
+    "picturethis",
+    "picturethis3d",
+    "ui",
+    "theme"
+  ],
+  "author": {
+    "name": "Roman Naumov",
+    "email": "roman@picturethis3d.com",
+    "url": "https://www.picturethis3d.com"
+  }
+}
